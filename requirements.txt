@@ -1,0 +1,4 @@
+python-whois>=0.7.3
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+pillow>=8.2.0
