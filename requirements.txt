@@ -1,4 +1,5 @@
-python-whois>=0.7.3
-requests>=2.25.1
-beautifulsoup4>=4.9.3
-pillow>=8.2.0
+tk==0.1.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-whois==0.8.0
+Pillow==10.1.0
